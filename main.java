@@ -93,3 +93,13 @@ public interface VerificaProfissionalismo {
 public interface GarantirSupervisor {
     String abstract GarantirSupervisor();
 }
+
+public class abstract AtividadeEsportivaColetiva extends AtividadeEsportiva {
+    AtividadeEsportivaColetiva() {
+        super();
+    }
+}
+
+main() {
+    list<>
+}
